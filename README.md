@@ -2,16 +2,14 @@
 
 ### Descrição:
 
-Projeto feito com o auxílio do instrutor Eliézer Zarpelão, na Digital Innovation One pelo bootcamp Decola Tech, da Avanade.
+Projeto feito na Digital Innovation One pelo bootcamp Decola Tech, da Avanade.
 
 ### Objetivo do projeto :
 
-Criar uma aplicação de cadastro de séries em memória.
-
+Criar um algoritmo de cadastro de séries, com a finalidade de praticar os conhecimentos de orientação a objetos, modelagem de domínio e como utilizar recursos de coleção para salvar dados em memória.
 ### Conceitos abordados no projeto:
 
 * POO;
-
 * Implementação do CRUD;
 * Utilização de classes abstratas;
 * Utilização de interfaces;
