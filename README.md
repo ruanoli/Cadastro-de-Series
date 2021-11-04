@@ -10,10 +10,7 @@ Criar um algoritmo de cadastro de séries, com a finalidade de praticar os conhe
 ### Conceitos abordados no projeto:
 
 * POO;
-* Implementação do CRUD;
-* Utilização de classes abstratas;
-* Utilização de interfaces;
-* Utilização de enum.
+* Implementação do CRUD.
 
 ### Implementação ao projeto base:
 
